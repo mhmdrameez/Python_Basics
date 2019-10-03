@@ -10,7 +10,7 @@ $ ./pcalc.py '0x23'
 35
 $ ./pcalc.py -f2 '76/13'
 5.85
-$ ./pcalc.py '27**12'
+$ ./pcalc.py '27**13'
 150094635296999121
 $ echo '97 + 232' | ./pcalc.py
 329
@@ -51,5 +51,5 @@ try:
     else:
         print(result)
 except (NameError, SyntaxError) as e:
-    sys.exit("Error: Not a valid input expression")
+    sys.exit("Error: it is not a valid input expression")
 

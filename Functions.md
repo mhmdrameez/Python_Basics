@@ -5,6 +5,7 @@
 * [range function](#range-function)
 * [type function](#type-function)
 * [Variable Scope](#variable-scope)
+* [Variable Scope](#variable-scope)
 
 <br>
 

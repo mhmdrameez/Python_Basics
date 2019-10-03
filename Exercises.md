@@ -24,9 +24,9 @@ You can also solve these exercises on [repl.it](https://repl.it/community/classr
 # Sample of how program might ask user input and display output afterwards
 $ ./usr_ip.py 
 Please provide the following details
-Enter your name: learnbyexample
-Enter your department: ECE
-Enter your college: PSG Tech
+Enter your name: vishnu jayakumar
+Enter your department: CSE
+Enter your college: Toch instituiteof science and technology
 
 ------------------------------------
 Name       : learnbyexample
