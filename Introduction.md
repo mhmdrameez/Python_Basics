@@ -17,6 +17,7 @@ From [wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 * Get Python for your OS from official website - https://www.python.org/ 
     * Most Linux distributions come with Python by default
+    *You can type python --version to make sure that whether python is installed or not.
 * See also [this guide](https://itsfoss.com/python-setup-linux/) for more detail as well as how to set up virtual environment, how to use **pip** (NEVER use **sudo pip** unless you know what you are doing)
 
 <br>
