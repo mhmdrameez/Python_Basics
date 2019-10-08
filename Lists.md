@@ -98,8 +98,8 @@ IndexError: list index out of range
 [2, 3, 5, 7, 11]
 ```
 
-* when `start` and `stop` values are same
-* Useful when they are generated programmatically, see [text processing exercise](./Exercises.md#text-processing) for example
+* when `start` and `stop` values are same.
+* Useful when they are generated programmatically, see [text processing exercise](./Exercises.md#text-processing) for example.
 
 ```bash
 >>> nums = [1.2, -0.2, 0, 2]
@@ -549,7 +549,7 @@ odd_numbers:  [3, 25, 21, 5, 9]
 even_numbers: [2, 12, 624, 12]
 ```
 
-* use `enumerate()` if both index and element is needed
+* use `enumerate()` if both index and element are needed
 
 ```python
 #!/usr/bin/python3
