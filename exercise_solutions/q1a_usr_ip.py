@@ -1,16 +1,29 @@
 #!/usr/bin/python3
 
-print('Please provide the following details')
-name = input('Enter your name: ')
-dept = input('Enter your department: ')
-colg = input('Enter your college: ')
+# print('Please provide the following details')
+# name = input('Enter your name: ')
+# dept = input('Enter your department: ')
+# colg = input('Enter your college: ')
 
 op_fmt = '{:<11}: {}'
 
-print('\n------------------------------------')
-print(op_fmt.format('Name', name))
-print(op_fmt.format('Department', dept))
-print(op_fmt.format('College', colg))
+# print('\n------------------------------------')
+# print(op_fmt.format('Name', name))
+# print(op_fmt.format('Department', dept))
+# print(op_fmt.format('College', colg))
+
+#In Spanish Chai
+print('\n----------------------------------------')
+print('Ingresa los datos')
+nombre = input('Escribe tu nombre: ')
+departamento = input('Escribir tu departamento: ')
+coligio = input('Ingresa tu colegio: ')
+
+print('\n----------------------------------------')
+print(op_fmt.format('Nombre', nombre),)
+print(op_fmt.format('Departamento', departamento))
+print(op_fmt.format('College', coligio))
+
 
 
 ####### Alternate
